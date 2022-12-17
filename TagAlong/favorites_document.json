@@ -1,0 +1,21 @@
+[
+   {
+      "userId": "1",
+      "name": "john",
+      "email": "john#gmail.com",
+      "address": {
+      "street": "abc",
+      "apt": "1103",
+      "city": "dallas",
+      "state": "tx",
+      "country": "US",
+      "pincode": "75080"
+      },
+      "phonenumber": "904343434",
+      "sex": "F",
+      "age": "67",
+      "password": "abc",
+      "favorites": ["1", "2", "3" ],
+      "ishost": "False"
+   }
+]

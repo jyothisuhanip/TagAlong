@@ -1,0 +1,169 @@
+.card {
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+  }
+
+  .side-menu:hover {
+    color:#416bdf;
+  }
+
+  .propertyCard {
+    border-color: #75d481;
+  }
+
+  .footercolor {
+    background-color:whitesmoke;
+  }
+
+  .favButton {
+    text-decoration: none;
+    color: white;
+  }
+
+  .favButton:hover {
+    text-decoration: none;
+    color: #0000EE;;
+  }
+
+  .disabledButton {
+    background-color: whitesmoke;
+    border-color: black;
+    color: black
+  }
+
+  .nontextdecoration {
+    text-decoration: none;
+    color: white;
+  }
+
+  .noHover{
+    pointer-events: none;
+  }
+
+  .custom-navbar {
+    background-color: whitesmoke;
+  }
+
+  .sidemenu-buttons {
+    color: black;
+  }
+
+  .side-menu-list {
+    background-color: whitesmoke;
+  }
+
+  .search-icon {
+    color: whitesmoke;
+    background-color: #416bdf;
+    border-color: #416bdf;
+  }
+
+  button.search-submit {
+    margin-top: 0;
+  }
+
+  .search-form label {
+    display: inline;
+  }
+
+  #jumbElements {
+    justify-content: center;
+    padding-bottom: 20px;
+  }
+
+  .jumbotron {
+    justify-content: center;
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    background-size: 100% 100%;
+    
+  }
+
+
+  .jumbheading {
+    justify-content: center;
+    padding-bottom: 20px;
+    align-items: center;
+  }
+
+  .logo_title {
+    color: #416bdf;
+  }
+
+  /* ul.dropdown-menu.show {
+    background-color: #416bdf;
+    color: #416bdf
+} */
+
+.dropdown-menu > li > a:hover {
+  background-image: none;
+  background-color: #416bdf;
+}
+
+.filterButtons:hover {
+  color: white;
+}
+
+.rounded-corners {
+  border-radius: 10px;
+  padding-left: 5px;
+}
+
+.buttonAppearText {
+  background:none;
+  border:none;
+  outline:none;
+  cursor:pointer;
+  color: #416bdf;
+}
+
+.center-items {
+  margin: auto;
+  width: 25%;
+  padding: 10px;
+}
+
+label {
+  width:180px;
+  clear:left;
+  text-align:right;
+  padding-right:10px;
+}
+
+/* input, label {
+  float:left;
+  align-items: center;
+} */ 
+
+#form-add div {
+  width: 70%;
+  /* background-color: #0000EE; */
+}
+
+#starRating {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+.on {
+  color: #416bdf;
+}
+.off {
+  color: gray;
+}
+
+.star {
+  font-size: 50px;
+}
+
+ .propertyButtons {
+    background-color: #416bdf;
+    border-color: #416bdf;
+    padding-left: 10px;
+    padding-right: 10px;
+  }

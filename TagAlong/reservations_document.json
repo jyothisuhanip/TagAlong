@@ -1,0 +1,60 @@
+[{
+   "reservationId": "1001",
+   "propertyId": "1",
+   "userId": "2001",
+   "checkIn": "2022-11-28",
+   "checkOut" : "2022-12-03",
+   "paymentId": "3001",
+   "upcoming": "true"
+   
+},
+{
+   "reservationId": "1002",
+   "propertyId": "3",
+   "userId": "2002",
+   "checkIn": "2022-11-28",
+   "checkOut" : "2022-12-03",
+   "paymentId": "3002",
+   "upcoming": "false"
+   
+},
+{
+   "reservationId": "1003",
+   "propertyId": "1",
+   "userId": "2001",
+   "checkIn": "2022-11-28",
+   "checkOut" : "2022-12-03",
+   "paymentId": "3003",
+   "upcoming": "true"
+   
+},
+{
+   "reservationId": "1004",
+   "propertyId": "4",
+   "userId": "2003",
+   "checkIn": "2022-11-28",
+   "checkOut" : "2022-12-03",
+   "paymentId": "3004",
+   "upcoming": "true"
+   
+},
+{
+   "reservationId": "1005",
+   "propertyId": "6",
+   "userId": "2004",
+   "checkIn": "2022-11-28",
+   "checkOut" : "2022-12-03",
+   "paymentId": "3005",
+   "upcoming": "false"
+   
+},{
+   "reservationId": "1006",
+   "propertyId": "5",
+   "userId": "2005",
+   "checkIn": "2022-11-28",
+   "checkOut" : "2022-12-03",
+   "paymentId": "3006",
+   "upcoming": "false"
+   
+}
+]
